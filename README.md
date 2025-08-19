@@ -2,11 +2,15 @@
 
 ###
 
-<img align="right" height="166" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQwcWk0Ym96cmxkMGswZmVveHVtMnRmMmE5dmc2YjZmZmp5ZDhnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="right" height="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQwcWk0Ym96cmxkMGswZmVveHVtMnRmMmE5dmc2YjZmZmp5ZDhnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
-<p align="left">💻 Passionate Software Engineer | ⚡ DevOps Enthusiast | 🌍 Full-Stack Explorer  <br><br>I love building scalable applications, automating workflows, and exploring the intersection of code, cloud, and innovation.  <br>Currently an engineering student at ESIEA and apprentice at Orange France, with 5+ years of hands-on industry experience.  <br><br>🚀 Always learning, always building, always curious.</p>
+<h4 align="left">💻 Passionate Software Engineer | ⚡ DevOps Enthusiast | 🌍 Full-Stack Explorer  <br><br></h4>
+
+  
+<p align="left">  
+I love building scalable applications, automating workflows, and exploring the intersection of code, cloud, and innovation.  <br>Currently an engineering student at ESIEA and apprentice at Orange France, with 5+ years of hands-on industry experience.  <br><br>🚀 Always learning, always building, always curious.</p>
 
 ###
 
