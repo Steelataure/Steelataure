@@ -14,7 +14,7 @@
 
 ###
 
-<h5 align="left">Languages</h5>
+<h4 align="left">Languages</h5>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h5 align="left">Frameworks & Libraries</h5>
+<h4 align="left">Frameworks & Libraries</h5>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h5 align="left">Tools & DevOps</h5>
+<h4 align="left">Tools & DevOps</h5>
 
 ###
 
