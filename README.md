@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQwcWk0Ym96cmxkMGswZmVveHVtMnRmMmE5dmc2YjZmZmp5ZDhnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="right" height="190" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQwcWk0Ym96cmxkMGswZmVveHVtMnRmMmE5dmc2YjZmZmp5ZDhnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
-<h6 align="left">💻 Ingénieur logiciel passionné | ⚡ Enthousiaste DevOps | 🌍 Explorateur Full-Stack  <br><br>J’adore concevoir des applications scalables, automatiser des workflows et explorer l’intersection entre le code, le cloud et l’innovation.  <br>Actuellement étudiant en cycle ingénieur à l’ESIEA, avec plus de 5 ans d’expérience en entreprise.</h6>
+<p align="left">💻 Passionate Software Engineer | ⚡ DevOps Enthusiast | 🌍 Full-Stack Explorer  <br><br>I love building scalable applications, automating workflows, and exploring the intersection of code, cloud, and innovation.  <br>Currently an engineering student at ESIEA and apprentice at Orange France, with 5+ years of hands-on industry experience.  <br><br>🚀 Always learning, always building, always curious.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h5 align="left">Langages</h5>
+<h5 align="left">Languages</h5>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h5 align="left">Frameworks & Bibliothèques</h5>
+<h5 align="left">Frameworks & Libraries</h5>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h5 align="left">Outils & DevOps</h5>
+<h5 align="left">Tools & DevOps</h5>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<h2 align="left">Me contacter</h2>
+<h2 align="left">Contact Me</h2>
 
 ###
 
@@ -98,10 +98,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steelataure/Steelataure/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Steelataure/Steelataure/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-</div>
-
-###
