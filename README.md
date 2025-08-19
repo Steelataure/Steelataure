@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="190" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQwcWk0Ym96cmxkMGswZmVveHVtMnRmMmE5dmc2YjZmZmp5ZDhnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="right" height="166" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQwcWk0Ym96cmxkMGswZmVveHVtMnRmMmE5dmc2YjZmZmp5ZDhnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
@@ -98,3 +98,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steelataure/Steelataure/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Steelataure/Steelataure/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+</div>
+
+###
