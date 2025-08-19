@@ -10,7 +10,7 @@
 
   
 <p align="left">  
-I love building scalable applications, automating workflows, and exploring the intersection of code, cloud, and innovation.  <br>Currently an engineering student at ESIEA and apprentice at Orange France, with 5+ years of hands-on industry experience.  <br><br>🚀 Always learning, always building, always curious.</p>
+I love building scalable applications, automating workflows, and exploring the intersection of code, cloud, and innovation.  <br>Currently an engineering student at ESIEA, with 5+ years of hands-on industry experience.  <br><br>🚀 Always learning, always building, always curious.</p>
 
 ###
 
