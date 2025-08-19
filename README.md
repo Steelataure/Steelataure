@@ -14,7 +14,7 @@ I love building scalable applications, automating workflows, and exploring the i
 
 ###
 
-<h2 align="left">Compétences</h2>
+<h2 align="left">Skills</h2>
 
 ###
 
