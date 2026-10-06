@@ -10,7 +10,7 @@
 
   
 <p align="left">  
-I love building scalable applications, automating workflows, and exploring the intersection of code, cloud, and innovation.  <br>Currently an engineering student at ESIEA, with 5+ years of hands-on industry experience.  <br><br>🚀 Always learning, always building, always curious.</p>
+I love building scalable applications, automating workflows, and exploring the intersection of code, cloud, and innovation.  <br>ESIEA engineering graduate, AWS certified, with 6 years of hands-on industry experience.  <br><br>🚀 Always learning, always building, always curious.</p>
 
 ###
 
@@ -18,7 +18,7 @@ I love building scalable applications, automating workflows, and exploring the i
 
 ###
 
-<h4 align="left">Languages</h5>
+<h4 align="left">Languages</h4>
 
 ###
 
@@ -36,7 +36,7 @@ I love building scalable applications, automating workflows, and exploring the i
 
 ###
 
-<h4 align="left">Frameworks & Libraries</h5>
+<h4 align="left">Frameworks & Libraries</h4>
 
 ###
 
@@ -56,7 +56,7 @@ I love building scalable applications, automating workflows, and exploring the i
 
 ###
 
-<h4 align="left">Tools & DevOps</h5>
+<h4 align="left">Tools & DevOps</h4>
 
 ###
 
@@ -74,6 +74,8 @@ I love building scalable applications, automating workflows, and exploring the i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
 </div>
 
 ###
@@ -86,9 +88,12 @@ I love building scalable applications, automating workflows, and exploring the i
   <a href="https://www.linkedin.com/in/alexandre-buisset/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-<a href="mailto:alexandre.buisset0312@gmail.com" target="_blank">
+  <a href="https://alexandre-buisset.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=netlify&label=&color=00C7B7&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
+  </a>
+  <a href="mailto:alexandre.buisset0312@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</a>
+  </a>
 </div>
 
 ###
@@ -100,14 +105,7 @@ I love building scalable applications, automating workflows, and exploring the i
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Steelataure/Steelataure/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Steelataure/Steelataure/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Steelataure/Steelataure/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexandre-buisset/alexandre-buisset/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexandre-buisset/alexandre-buisset/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alexandre-buisset/alexandre-buisset/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-</div>
-
-###
